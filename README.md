@@ -5,6 +5,11 @@
 5. # Gioi Thieu: SV nam 3 - Lop 15Ck3
 6. # in thoi khoa bieu
 
+firstheader | second column
+------------|--------------
+data1|data2
+data3|data4
+
 su dung GIT
 1. tao tai khoan github
 2. tao project/repository tren github
